@@ -30,3 +30,7 @@ Caso a não tenha como escapar de dependencia de outros método, é possivel moc
 
 **EX**
 > no projeto nós temos contexto das implementações direcionadas ao pokemons, e aos treinadores dos pokemons, assim testamos os dois separadamente
+
+# TO DO
+- [ ] implementar testes comentados em treinador
+- [ ] resolver warnings na execução dos testes
